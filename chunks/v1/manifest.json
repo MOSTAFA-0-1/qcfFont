@@ -1,0 +1,248 @@
+{
+ "version": 1,
+ "format": "qcfc-gzip",
+ "totalPages": 604,
+ "totalBytes": 136024257,
+ "chunks": [
+  {
+   "id": 1,
+   "file": "juz01.qcfc",
+   "firstPage": 1,
+   "lastPage": 21,
+   "bytes": 5129456,
+   "sha256": "6968000e7b2b1e8ea325c75d4c6584c4d0866ab9ed54ed315dcf7ff358882e9d"
+  },
+  {
+   "id": 2,
+   "file": "juz02.qcfc",
+   "firstPage": 22,
+   "lastPage": 41,
+   "bytes": 4454168,
+   "sha256": "e05e5e0004cd3292aca77fb1a47dbd97180d52a9c219c3e5c7431c901e6cf07f"
+  },
+  {
+   "id": 3,
+   "file": "juz03.qcfc",
+   "firstPage": 42,
+   "lastPage": 61,
+   "bytes": 4457713,
+   "sha256": "e566a8267c460a4596c3fd5f8e986b1543d09dbb329953568beccea4afe41b4f"
+  },
+  {
+   "id": 4,
+   "file": "juz04.qcfc",
+   "firstPage": 62,
+   "lastPage": 81,
+   "bytes": 4330449,
+   "sha256": "0b045d777225e33c72ffa354f52d5ca023b0a39c0546ce2bc1344701c38de768"
+  },
+  {
+   "id": 5,
+   "file": "juz05.qcfc",
+   "firstPage": 82,
+   "lastPage": 101,
+   "bytes": 4570631,
+   "sha256": "5534010d98627b22c0212932d9627fc1fb5e4a0a1611eab52e84436286a08055"
+  },
+  {
+   "id": 6,
+   "file": "juz06.qcfc",
+   "firstPage": 102,
+   "lastPage": 120,
+   "bytes": 4251999,
+   "sha256": "f184a7cb33e64a99cf0292a66063789a0fff7c0dec201abc039d92f160dae371"
+  },
+  {
+   "id": 7,
+   "file": "juz07.qcfc",
+   "firstPage": 121,
+   "lastPage": 141,
+   "bytes": 4860432,
+   "sha256": "0edf0618293caac3a0c39e8b0740b622a8026ff8eaf8715adc7cc29594699914"
+  },
+  {
+   "id": 8,
+   "file": "juz08.qcfc",
+   "firstPage": 142,
+   "lastPage": 161,
+   "bytes": 4486587,
+   "sha256": "9b0b263e8201c43529b79e6a13aba994bda251a16ca22526820bb342fcd14ae0"
+  },
+  {
+   "id": 9,
+   "file": "juz09.qcfc",
+   "firstPage": 162,
+   "lastPage": 181,
+   "bytes": 4506088,
+   "sha256": "314debec0bd590a94f2a7405a99d654f4e876ecde293300924f47afa39dc522c"
+  },
+  {
+   "id": 10,
+   "file": "juz10.qcfc",
+   "firstPage": 182,
+   "lastPage": 200,
+   "bytes": 4165744,
+   "sha256": "dd997f278d958c865a96d5d65d0aaabe1c59aa9e35da5e4450797320300884e8"
+  },
+  {
+   "id": 11,
+   "file": "juz11.qcfc",
+   "firstPage": 201,
+   "lastPage": 221,
+   "bytes": 4677604,
+   "sha256": "5af7aa3dddbfb7339bc343aafa8e160e7cf2ea680c0e1f34ebd051daf47c556e"
+  },
+  {
+   "id": 12,
+   "file": "juz12.qcfc",
+   "firstPage": 222,
+   "lastPage": 241,
+   "bytes": 4454378,
+   "sha256": "a7ade6410f5f48da3df757aebc935b424303cc7dd868aeef777ca367868b1746"
+  },
+  {
+   "id": 13,
+   "file": "juz13.qcfc",
+   "firstPage": 242,
+   "lastPage": 261,
+   "bytes": 4562255,
+   "sha256": "2cba1540ed8f487772095c5c88403a8bfe251c3f4db451c74b1ebc5ba2d4a326"
+  },
+  {
+   "id": 14,
+   "file": "juz14.qcfc",
+   "firstPage": 262,
+   "lastPage": 281,
+   "bytes": 4434465,
+   "sha256": "bad1e791eba5d0f335c45369e3798bcfc230bd8195110f2fed1678813ac3b3e7"
+  },
+  {
+   "id": 15,
+   "file": "juz15.qcfc",
+   "firstPage": 282,
+   "lastPage": 301,
+   "bytes": 4548082,
+   "sha256": "073cbb05e52256c905cd1cffacc4a9de68b3b2906c4e33ea59f3a3b2631c6755"
+  },
+  {
+   "id": 16,
+   "file": "juz16.qcfc",
+   "firstPage": 302,
+   "lastPage": 321,
+   "bytes": 4592909,
+   "sha256": "ada5b4b3b09236474591218830f7299e463e9a69517b4d7dec919395b2c8ac15"
+  },
+  {
+   "id": 17,
+   "file": "juz17.qcfc",
+   "firstPage": 322,
+   "lastPage": 341,
+   "bytes": 4355915,
+   "sha256": "a0c0ea78be4feae7e11c45f3e36c040362a93f9603e5237b6c49da343b521f38"
+  },
+  {
+   "id": 18,
+   "file": "juz18.qcfc",
+   "firstPage": 342,
+   "lastPage": 361,
+   "bytes": 4630608,
+   "sha256": "f25f32ea13f468c992a7421ce847ce1b4dc48d2bc50174d0c91a6675d550e9d1"
+  },
+  {
+   "id": 19,
+   "file": "juz19.qcfc",
+   "firstPage": 362,
+   "lastPage": 381,
+   "bytes": 4709925,
+   "sha256": "4a5ebf6ab586e23656dcb50b4b969e08b608213d7530b1ba0577c1084009cf5b"
+  },
+  {
+   "id": 20,
+   "file": "juz20.qcfc",
+   "firstPage": 382,
+   "lastPage": 401,
+   "bytes": 4407541,
+   "sha256": "2de65fc80918aa0f4bc013b54e3a6eadb9439edac8999db998e461e3633e238b"
+  },
+  {
+   "id": 21,
+   "file": "juz21.qcfc",
+   "firstPage": 402,
+   "lastPage": 421,
+   "bytes": 4436345,
+   "sha256": "963dfa322effcdb5e26b0613fe9bd36c179a0b9b09891a0b3e2743d6046ac2b1"
+  },
+  {
+   "id": 22,
+   "file": "juz22.qcfc",
+   "firstPage": 422,
+   "lastPage": 441,
+   "bytes": 4482263,
+   "sha256": "79f2fb42ad5918f0d6f92a36487c624fcec6e0b5cbab46bebf9869c49dc79fb0"
+  },
+  {
+   "id": 23,
+   "file": "juz23.qcfc",
+   "firstPage": 442,
+   "lastPage": 461,
+   "bytes": 4720455,
+   "sha256": "05dee1a98e6883b5e07128e1716d7ebf6f9e475d8f23fdb2ca7486a0cff43a5c"
+  },
+  {
+   "id": 24,
+   "file": "juz24.qcfc",
+   "firstPage": 462,
+   "lastPage": 481,
+   "bytes": 4429576,
+   "sha256": "c8b29dda0ae945565ac89acd8713b592baf5cf934d1275e5260133feb4b2457d"
+  },
+  {
+   "id": 25,
+   "file": "juz25.qcfc",
+   "firstPage": 482,
+   "lastPage": 501,
+   "bytes": 4560600,
+   "sha256": "49a56b630a2d77cda21644e988abe7fdd8fd7a977c65883e0513aa0af716f7ed"
+  },
+  {
+   "id": 26,
+   "file": "juz26.qcfc",
+   "firstPage": 502,
+   "lastPage": 521,
+   "bytes": 4597708,
+   "sha256": "2cfbbb756aa62bb907d2af1fc2613adf32ab43fec22f5de264bc3241d3702878"
+  },
+  {
+   "id": 27,
+   "file": "juz27.qcfc",
+   "firstPage": 522,
+   "lastPage": 541,
+   "bytes": 4634766,
+   "sha256": "8e0a3d7e6aaa16f5279643e7b41c6b3072ac323a6c2d32724e09a1cac447a773"
+  },
+  {
+   "id": 28,
+   "file": "juz28.qcfc",
+   "firstPage": 542,
+   "lastPage": 561,
+   "bytes": 4509008,
+   "sha256": "682a4ebb3a614d1ba2c5cc7982814c60cffffe93b0052142f8c9348c51688cdf"
+  },
+  {
+   "id": 29,
+   "file": "juz29.qcfc",
+   "firstPage": 562,
+   "lastPage": 581,
+   "bytes": 4688002,
+   "sha256": "f2d2d4e39c446f5e18d735e782a3e1082c95178c1451c1ef0eb8b74de87cdbad"
+  },
+  {
+   "id": 30,
+   "file": "juz30.qcfc",
+   "firstPage": 582,
+   "lastPage": 604,
+   "bytes": 4378585,
+   "sha256": "72a5d79e62ffbc5f393d5d04e7ae878e3abb34ee0fc84418872b8c8dd7909879"
+  }
+ ]
+}
